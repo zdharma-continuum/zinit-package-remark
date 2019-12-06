@@ -18,10 +18,10 @@ Example invocations that'll install
 zplugin pack for remark
 
 # Download the Node package of remark-cli and remark-man
-zplugin pack"man-only" for fzf
+zplugin pack"man-only" for remark
 
 # Download the Node package of remark-cli and remark-html
-zplugin pack"html-only" for fzf
+zplugin pack"html-only" for remark
 ```
 
 ## Default Profile
