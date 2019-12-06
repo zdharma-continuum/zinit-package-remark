@@ -19,7 +19,7 @@
     "_where": "/root/github2/pkg-remark",
     "author": "@unifiedjs collective",
     "bugs": {
-        "url": "https://github.com/junegunn/remark/issues"
+        "url": "https://github.com/remarkjs/remark/issues"
     },
     "contributors": [],
     "dependencies": {},
@@ -33,7 +33,8 @@
     "keywords": [
         "markdown",
         "markdown processor",
-        "markdown converter"
+        "markdown converter",
+        "zsh"
     ],
     "license": "MIT",
     "name": "zsh-remark",
