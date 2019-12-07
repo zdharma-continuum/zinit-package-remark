@@ -2,6 +2,10 @@
 
 ##### NPM link: [https://www.npmjs.com/package/zsh-remark](https://www.npmjs.com/package/zsh-remark)
 
+| **Package source:** | Tarball | Git | Node | Gem |
+|:-------------------:|:-------:|:---:|:----:|:---:|
+| **Status:**         |    -    |  -  |  + <br> (default)  |  –  |
+
 [Zplugin](https://github.com/zdharma/zplugin) can use the NPM package registry
 to automatically:
 
