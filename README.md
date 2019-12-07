@@ -1,13 +1,15 @@
 # remarkjs/remark as a Zsh package
 
+##### NPM link: [https://www.npmjs.com/package/zsh-remark](https://www.npmjs.com/package/zsh-remark)
+
 [Zplugin](https://github.com/zdharma/zplugin) can use the NPM package registry
 to automatically:
 
 - get the plugin's Git repository OR release-package URL,
 - get the list of the recommended ices for the plugin,
-- there can be multiple lists of ices,
-- the ice lists are stored in *profiles*; there's at least one profile, *default*,
-- the ices can be selectively overriden.
+    - there can be multiple lists of ices,
+    - the ice lists are stored in *profiles*; there's at least one profile, *default*,
+    - the ices can be selectively overriden.
 
 Example invocations that'll install
 [remarkjs/remark](https://github.com/remarkjs/remark) by using the
