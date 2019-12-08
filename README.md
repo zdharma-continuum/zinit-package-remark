@@ -2,6 +2,8 @@
 
 ##### NPM link: [https://www.npmjs.com/package/zsh-remark](https://www.npmjs.com/package/zsh-remark)
 
+##### Homepage link: [remarkjs/remark](https://github.com/remarkjs/remark)
+
 | **Package source:** | Tarball | Git | Node | Gem |
 |:-------------------:|:-------:|:---:|:----:|:---:|
 | **Status:**         |    -    |  -  |  + <br> (default)  |  –  |
