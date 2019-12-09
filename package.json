@@ -43,7 +43,8 @@
         "plugin-info": {
             "user": "zdharma",
             "plugin": "null",
-            "version": "11.0.2"
+            "version": "11.0.2",
+            "requires": "npm;bgn"
         },
         "zplugin-ices": {
             "default": {
