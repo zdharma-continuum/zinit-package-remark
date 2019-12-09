@@ -21,7 +21,7 @@
     "bugs": {
         "url": "https://github.com/remarkjs/remark/issues"
     },
-    "version" : "11.0.2",
+    "version": "11.0.3",
     "contributors": [],
     "dependencies": {},
     "deprecated": false,
@@ -48,21 +48,21 @@
         },
         "zplugin-ices": {
             "default": {
-                "git" : "",
+                "git": "",
                 "lucid": "",
                 "as": "null",
                 "node": "remark <- !remark-cli; remark-man; remark-html",
                 "sbin": "n:node_modules/.bin/remark"
             },
             "man-only": {
-                "git" : "",
+                "git": "",
                 "lucid": "",
                 "as": "null",
                 "node": "remark <- !remark-cli; remark-man",
                 "sbin": "n:node_modules/.bin/remark"
             },
             "html-only": {
-                "git" : "",
+                "git": "",
                 "lucid": "",
                 "as": "null",
                 "node": "remark <- !remark-cli; remark-html",
