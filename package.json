@@ -52,7 +52,8 @@
                 "lucid": "",
                 "as": "null",
                 "node": "remark <- !remark-cli; remark-man; remark-html",
-                "sbin": "n:node_modules/.bin/remark"
+                "sbin": "n:node_modules/.bin/remark",
+                "atpull": "%atclone"
             },
             "man-only": {
                 "git": "",
@@ -66,7 +67,8 @@
                 "lucid": "",
                 "as": "null",
                 "node": "remark <- !remark-cli; remark-html",
-                "sbin": "n:node_modules/.bin/remark"
+                "sbin": "n:node_modules/.bin/remark",
+                "atpull": "%atclone"
             }
         }
     }
