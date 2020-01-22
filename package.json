@@ -53,14 +53,16 @@
                 "as": "null",
                 "node": "remark <- !remark-cli; remark-man; remark-html",
                 "sbin": "n:node_modules/.bin/remark",
-                "atpull": "%atclone"
+                "atpull": "%atclone",
+                "nocompile": ""
             },
             "man-only": {
                 "git": "",
                 "lucid": "",
                 "as": "null",
                 "node": "remark <- !remark-cli; remark-man",
-                "sbin": "n:node_modules/.bin/remark"
+                "sbin": "n:node_modules/.bin/remark",
+                "nocompile": ""
             },
             "html-only": {
                 "git": "",
@@ -68,7 +70,8 @@
                 "as": "null",
                 "node": "remark <- !remark-cli; remark-html",
                 "sbin": "n:node_modules/.bin/remark",
-                "atpull": "%atclone"
+                "atpull": "%atclone",
+                "nocompile": ""
             }
         }
     }
