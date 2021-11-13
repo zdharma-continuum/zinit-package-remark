@@ -46,7 +46,7 @@
             "version": "11.0.2",
             "requires": "npm;bgn"
         },
-        "zplugin-ices": {
+        "zinit-ices": {
             "default": {
                 "git": "",
                 "lucid": "",
